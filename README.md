@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://github.com/RanoshisDas/RanoshisDas/blob/main/rano.jpeg"  />
+</div>
+
 <h1 align="center">Hi 👋, I'm Ranoshis Das</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
