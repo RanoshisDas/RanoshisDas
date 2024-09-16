@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/ranoshis" target="blank"><img src="https://img.shields.io/twitter/follow/ranoshis?logo=twitter&style=for-the-badge" alt="ranoshis" /></a> </p>
 
-- 🌱 I’m currently learning **React,dart**
+- 🌱 I’m currently learning **React native,dart,AI**
 
-- 👨‍💻 All of my projects are available at [@RanoshisDas](@RanoshisDas)
+- 👨‍💻 All of my projects are available at **@RanoshisDas/repositories**
 
 - 💬 Ask me about **java, android studio**
 
 - 📫 How to reach me **ranoshisdas@gmail.com**
 
-- ⚡ Fun fact **I think I am taller the 6'**
+- ⚡ Fun fact **I am taller then 6'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
