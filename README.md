@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://github.com/RanoshisDas/RanoshisDas/blob/main/rano.jpeg"  />
 </div>
@@ -41,3 +42,5 @@
 <p><a href="https://www.buymeacoffee.com/ranoshis_das"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ranoshis_das" /></a></p><br></br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranoshisdas" alt="ranoshisdas" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranoshisdas&show_icons=true&locale=en&layout=compact" alt="ranoshisdas" /></p>
